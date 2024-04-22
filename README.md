@@ -1,6 +1,6 @@
 ### Last 365 Days
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-617%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-617%20hrs%2010%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -13,7 +13,7 @@
 
 
 
- Last Updated on 21/04/2024 18:33:51 UTC
+ Last Updated on 22/04/2024 18:34:42 UTC
 <!--END_SECTION:waka-->
 
 <!--
