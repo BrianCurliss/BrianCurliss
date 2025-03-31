@@ -1,9 +1,19 @@
 ### Last 365 Days
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-939%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-936%20hrs%2032%20mins-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                4302 commits        ███████░░░░░░░░░░░░░░░░░░   29.22 % 
+🌆 Daytime                5805 commits        ██████████░░░░░░░░░░░░░░░   39.43 % 
+🌃 Evening                3589 commits        ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
+🌙 Night                  1025 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+```
 
 
- Last Updated on 30/03/2025 18:41:36 UTC
+
+ Last Updated on 31/03/2025 18:44:19 UTC
 <!--END_SECTION:waka-->
 
 <!--
